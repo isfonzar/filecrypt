@@ -1,10 +1,10 @@
 <p align="center"><img src="http://i.imgur.com/yIXu97n.png"></p>
 
 <p align="center">
-<a href="https://github.com/isfonzar/CryptoGo"><img src="https://img.shields.io/badge/Language-Go-blue.svg" alt="Language"></a>
-<a href="https://goreportcard.com/report/github.com/isfonzar/CryptoGo"><img src="https://goreportcard.com/badge/github.com/isfonzar/CryptoGo" alt="GoReportCard"></a>
-<a href="https://github.com/isfonzar/CryptoGo/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
-<a href="https://github.com/isfonzar/CryptoGo/releases"><img src="https://img.shields.io/badge/Status-Beta-brightgreen.svg" alt="Status"></a>
+<a href="https://github.com/isfonzar/filecrypt"><img src="https://img.shields.io/badge/Language-Go-blue.svg" alt="Language"></a>
+<a href="https://goreportcard.com/report/github.com/isfonzar/filecrypt"><img src="https://goreportcard.com/badge/github.com/isfonzar/filecrypt" alt="GoReportCard"></a>
+<a href="https://github.com/isfonzar/filecrypt/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+<a href="https://github.com/isfonzar/filecrypt/releases"><img src="https://img.shields.io/badge/Status-Beta-brightgreen.svg" alt="Status"></a>
 </p>
 
 ## About filecrypt
